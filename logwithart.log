@@ -1,2 +1,4 @@
-i-02b0f82424e36eda6     ami-08c43a637ea59a07e   coiac-oms-voie-dev-int-app-blue voie    2024_R5.0       10.53.28.111
-i-0f4020baadacfaa5c     ami-08c43a637ea59a07e   coiac-oms-voie-dev1-app-blue    voie    2024_R5.0       10.53.28.158
+comparator         onlon1-ns   2     artifactory.siva.com/comp          2024-11-25T07:28:38Z  2024-09-13T07:53:47.282-05:00
+doc                onlon1-ns   2     artifactory.siva.com/doc                 2024-11-25T07:24:25Z  2024-11-05T03:03:27.989-06:00
+get-data           onlon1-ns   2     artifactory.siva.com/get-data          2024-11-25T07:24:27Z  null
+product-assembly   onlon1-ns   1     artifactory.siva.com/product-assembly   2024-11-25T07:26:12Z  2024-11-24T11:30:08.802-06:00

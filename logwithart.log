@@ -1,3 +1,10 @@
-comparator   onlon1-ns   2     artifactory.siva.com/docker-cld-dev-local   2024-11-25T07:28:38Z  2024-09-13T07:53:47.282-05:00  _______________2_desired_|_2_updated_|_2_total_|_2_available_|_0_unavailable
-doc          onlon1-ns   2     artifactory.siva.com/docker-cld-de          2024-11-25T07:24:25Z  2024-11-05T03:03:27.989-06:00  _______________2_desired_|_2_updated_|_2_total_|_2_available_|_0_unavailable
-get-data     onlon1-ns   2     artifactory.siva.com/docker-cld-dev-local/us   2024-11-25T07:24:27Z  null  _______________2_desired_|_2_updated_|_2_total_|_2_available_|_0_unavailable
+comparator         onlon1-ns   2    ftr-comparator:1.0.33              2024-11-25T07:28:38Z  null  _______________2_desired_|_2_updated_|_2_total_|_0_available_|_2_unavailable 2025-01-04T05:01:11Z
+2025-01-05T16:05:04Z
+config-server      onlon1-ns   2    ftr-config-server:1.0.1.1          2024-12-30T13:16:09Z  2024-12-30T11:28:03.579-06:00  _______________2_desired_|_2_updated_|_2_total_|_2_available_|_0_unavailable 2025-01-06T14:22:27Z
+2025-01-06T14:23:34Z
+doc                onlon1-ns   2     ftr-doc:2.0.3                      2024-11-25T07:24:25Z  2024-12-11T06:48:13.458-06:00  _______________2_desired_|_2_updated_|_2_total_|_1_available_|_1_unavailable 2025-01-04T05:01:14Z
+2025-01-04T05:01:12Z
+get-data           onlon1-ns   2     ftr-get-data:2.0.2               2024-11-25T07:24:27Z  2024-12-11T06:32:00.768-06:00  _______________2_desired_|_2_updated_|_2_total_|_0_available_|_2_unavailable 2025-01-04T05:01:15Z
+2025-01-04T05:01:14Z
+ssw-online         onlon1-ns   1     globalssw-service:1.2.0.6-SNAPSHOT   2024-12-02T09:44:38Z  null  _______________1_desired_|_1_updated_|_1_total_|_0_available_|_1_unavailable 2025-01-05T16:05:07Z
+product-assembly   onlon1-ns   1     ftr-product-assembly:2.0.4         2024-11-25T07:26:12Z  2024-12-11T07:16:54.152-06:00  ________1_Running_/_0_Waiting_/_0_Succeeded_/_0_Failed 2025-01-05T16:08:39Z
